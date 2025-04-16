@@ -1,0 +1,4 @@
+git add src/tokens/solana.tokenlist.json
+git commit -m "Add LumE USD (LUSD) logo @ bafybeifqn… with decimals=8"
+git push origin add-lusd-logo
+bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa
