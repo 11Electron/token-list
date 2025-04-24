@@ -5,12 +5,14 @@
   "name": "LumE USD",
   "decimals": 8,
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
-  "tags": ["stablecoin","usd"],
+  "tags": [
+    "stablecoin"
+  ],
   "extensions": {
-    "website": "https://example.com",
-    "twitter": "https://twitter.com/yourproject",
-    "github": "https://github.com/yourproject"
+    "telegram": "https://t.me/LumeUSD",
+    "description": "LumE USD is a decentralized stablecoin backed by real-world assets."
   }
+}
 }
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
@@ -29686,15 +29688,4 @@
       }
     },
     {
-      "chainId": 101,
-      "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
-      "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "in
+      "chainI
