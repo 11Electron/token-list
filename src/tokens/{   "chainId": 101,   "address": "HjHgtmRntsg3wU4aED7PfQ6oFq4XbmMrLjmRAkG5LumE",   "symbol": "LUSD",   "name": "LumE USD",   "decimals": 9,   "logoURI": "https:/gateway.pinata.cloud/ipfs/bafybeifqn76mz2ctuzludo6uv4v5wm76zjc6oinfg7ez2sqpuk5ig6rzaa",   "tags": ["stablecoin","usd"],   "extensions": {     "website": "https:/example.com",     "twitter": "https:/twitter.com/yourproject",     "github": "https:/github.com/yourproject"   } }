@@ -5,10 +5,11 @@
   "name": "LumE USD",
   "decimals": 8,
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifqn76mz2ctuzludo6uv4v5wm76zjc6oinfg7ez2sqpuk5ig6rzaa",
-  "tags": ["stablecoin","usd"],
+  "tags": [
+    "stablecoin"
+  ],
   "extensions": {
-    "website": "https://example.com",
-    "twitter": "https://twitter.com/yourproject",
-    "github": "https://github.com/yourproject"
+    "telegram": "https://t.me/LumeUSD",
+    "description": "LumE USD is a decentralized stablecoin backed by real-world assets."
   }
 }
